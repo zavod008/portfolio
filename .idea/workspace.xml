@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c6af0c0-1459-40e6-b482-adbbedb53308" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/portfolio" />
+  </component>
+  <component name="ProjectId" id="1cJ6ZzR3aUHjVJrXbiKreH7ym9e" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/static" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\portfolio\assets\sprite\svg" />
+      <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio\card" />
+      <recent name="C:\OSPanel\domains\portfolio\static" />
+      <recent name="C:\OSPanel\domains\portfolio\components\Portfolio" />
+      <recent name="C:\OSPanel\domains\portfolio\assets" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\portfolio\static" />
+      <recent name="C:\OSPanel\domains\portfolio\assets\icons" />
+      <recent name="C:\OSPanel\domains\portfolio\static\images" />
+      <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio\full" />
+      <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6af0c0-1459-40e6-b482-adbbedb53308" name="Default Changelist" comment="" />
+      <created>1590234408813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590234408813</updated>
+      <workItem from="1590234410227" duration="6453000" />
+      <workItem from="1590363168709" duration="1850000" />
+      <workItem from="1590408284581" duration="2930000" />
+      <workItem from="1590491234225" duration="12370000" />
+      <workItem from="1590572762976" duration="14256000" />
+      <workItem from="1590654818067" duration="20795000" />
+      <workItem from="1590756082366" duration="4523000" />
+      <workItem from="1590770570136" duration="1510000" />
+      <workItem from="1590783254588" duration="3260000" />
+      <workItem from="1590836838226" duration="12146000" />
+      <workItem from="1590879723100" duration="599000" />
+      <workItem from="1590931169191" duration="2213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590697028374">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1590697028374" />
+    <state x="781" y="164" key="SettingsEditor" timestamp="1590685100403">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="781" y="164" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1590685100403" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/layouts/default.vue</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "zavod008 <zavod1357@mail.ru>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",
+    "precommit": "npm run lint",
+    "build:gh-pages": "cross-env DEPLOY_ENV=GH_PAGES nuxt build",
+    "generate:gh-pages": "cross-env DEPLOY_ENV=GH_PAGES nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/svg-sprite": "^0.4.10",
+    "normalize.css": "^8.0.1",
+    "nuxt": "^2.0.0",
+    "nuxt-lazy-load": "^1.2.4"
+  },
+  "devDependencies": {
+    "@nuxtjs/style-resources": "^1.0.0",
+    "babel-eslint": "^10.0.1",
+    "cross-env": "^7.0.2",
+    "eslint": "7.1.0",
+    "eslint-friendly-formatter": "^4.0.1",
+    "eslint-loader": "4.0.2",
+    "eslint-plugin-vue": "6.2.2",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  }
+}
