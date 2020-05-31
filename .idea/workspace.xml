@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6af0c0-1459-40e6-b482-adbbedb53308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/portfolio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
       <workItem from="1590783254588" duration="3260000" />
       <workItem from="1590836838226" duration="12146000" />
       <workItem from="1590879723100" duration="599000" />
-      <workItem from="1590931169191" duration="4560000" />
+      <workItem from="1590931169191" duration="5412000" />
     </task>
     <servers />
   </component>

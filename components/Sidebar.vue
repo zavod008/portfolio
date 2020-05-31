@@ -1,7 +1,7 @@
 <template>
     <div class="sidebar">
         <div class="sidebar__image">
-            <img src="/images/avatar.jpg" alt="">
+            <img src="images/avatar.jpg" alt="">
         </div>
         <Menu/>
         <Socials class="sidebar__socials"/>
