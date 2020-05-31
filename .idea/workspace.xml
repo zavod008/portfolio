@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6af0c0-1459-40e6-b482-adbbedb53308" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/portfolio.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/portfolio.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cJ6ZzR3aUHjVJrXbiKreH7ym9e" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -48,19 +49,19 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\OSPanel\domains\portfolio\assets\sprite\svg" />
-      <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio\card" />
-      <recent name="C:\OSPanel\domains\portfolio\static" />
-      <recent name="C:\OSPanel\domains\portfolio\components\Portfolio" />
-      <recent name="C:\OSPanel\domains\portfolio\assets" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\OSPanel\domains\portfolio\static" />
       <recent name="C:\OSPanel\domains\portfolio\assets\icons" />
       <recent name="C:\OSPanel\domains\portfolio\static\images" />
       <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio\full" />
       <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\OSPanel\domains\portfolio\assets\sprite\svg" />
+      <recent name="C:\OSPanel\domains\portfolio\static\images\portfolio\card" />
+      <recent name="C:\OSPanel\domains\portfolio\static" />
+      <recent name="C:\OSPanel\domains\portfolio\components\Portfolio" />
+      <recent name="C:\OSPanel\domains\portfolio\assets" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -84,7 +85,7 @@
       <workItem from="1590783254588" duration="3260000" />
       <workItem from="1590836838226" duration="12146000" />
       <workItem from="1590879723100" duration="599000" />
-      <workItem from="1590931169191" duration="2595000" />
+      <workItem from="1590931169191" duration="4560000" />
     </task>
     <servers />
   </component>
