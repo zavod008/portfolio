@@ -16,7 +16,7 @@
     "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
-    "@nuxtjs/svg-sprite": "^0.4.10",
+    "@nuxtjs/svg-sprite": "^0.5.2",
     "normalize.css": "^8.0.1",
     "nuxt": "^2.0.0",
     "nuxt-lazy-load": "^1.2.4"
